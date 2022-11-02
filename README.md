@@ -11,4 +11,3 @@ To continue further on from this project, I'd like to analyze how user's spendin
 
 ### Contact
 Jessica N - Jnguye84@gmu.edu
-Website - https://jessicanguyen858.wixsite.com/my-site
