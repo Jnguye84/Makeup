@@ -1,7 +1,6 @@
 # Makeup
 Data Visualization of makeup brands and their products in Python using Jupyter Notebook.
 
-#Question
 Ouf of the vegan product selection within makeup brands, what is the most affordable makeup brand?
 
 ### Introduction
